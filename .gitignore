@@ -51,9 +51,9 @@ coverage.xml
 docs/_build/
 
 # IDE
-.idea
-.vscode
-.vim
+/.idea
+/.vscode
+/.vim
 
 # Misc
 .DS_Store
